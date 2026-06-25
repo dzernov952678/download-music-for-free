@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Download Music For Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/download-music-for-free)
+[![Download Download Music For Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/download-music-for-free)
 
 </div>
 
@@ -90,7 +90,7 @@
 4. **✅ Следуйте инструкциям** — установка займёт минуту
 5. **🚀 Запустите программу** с рабочего стола
 
-[![Download Download Music For Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/download-music-for-free)
+[![Download Download Music For Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/download-music-for-free)
 
 ### Как скачать песню
 
@@ -185,7 +185,7 @@
 
 <div align="center">
 
-[![Download Download Music For Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/download-music-for-free)
+[![Download Download Music For Free](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/download-music-for-free)
 
 **Версия 5.1.0** — Скачать музыку бесплатно. Навсегда бесплатно.
 
